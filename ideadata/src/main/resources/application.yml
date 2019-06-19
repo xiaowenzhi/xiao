@@ -1,0 +1,4 @@
+person:
+    name: wenzi
+    age: ${random.int}
+    sex: nan
